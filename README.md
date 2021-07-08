@@ -3,8 +3,8 @@
 
 | | |
 |---|---|
-| ⚡ My work at Alliander (NL) | [Short Term Forecasting (OpenSource)<br/> Forecasting the Energy Grid for the next couple of days](https://github.com/alliander-opensource/short-term-forecasting) |
-| 🌞 My research at Wageningen University&Research | [Every Ray Counts! <br/> Improving solar energy forecasts beyond the state-of-the-art](https://www.vcard.wur.nl/Views/Profile/View.aspx?id=87854) |
+| ⚡ My work at <a href="https://www.werkenbijalliander.com" target="_blank"> <img src="https://www.ams-institute.org/media/original_images/alliander-logo-480x213-2.png.700x700_q85_upscale.png" alt="Alliander" width="90" height="40"/> </a>  | [Short Term Forecasting (OpenSource)<br/> Forecasting the Energy Grid for the next couple of days](https://github.com/alliander-opensource/short-term-forecasting) |
+| 🌞 My research at <a href="https://www.wur.nl/nl/Personen/Frank-FPM-Frank-Kreuwel-MSc.htm" target="_blank"> <img src="https://d1ra4hr810e003.cloudfront.net/visual/accountlogo/386E52AF-B22A-4F20-9E07456F950C78DA/small-626B8937-AF13-4FF1-B61B9BA437B7351D.png" alt="Wageningen University&Research" width="150" height="40"/> </a>| [Every Ray Counts! <br/> Improving solar energy forecasts beyond the state-of-the-art](https://www.vcard.wur.nl/Views/Profile/View.aspx?id=87854) |
 | 📝 Related Articles | [Interview New Scientist](https://www.newscientist.nl/nieuws/zonne-energie-kan-bij-bewolking-een-stuk-hoger-pieken-dan-bij-strakblauwe-lucht/) <br/> [Interview The Economic Board](https://theeconomicboard.com/nieuws/wur-en-liander-zonne-energie/) |
 
 
